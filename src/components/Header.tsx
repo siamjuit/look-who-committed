@@ -6,8 +6,8 @@ export function Header() {
       <div className="mx-auto max-w-screen px-6 py-4 flex items-center justify-between">
         
         <div className="flex items-center gap-2">
-          <div className="h-10 w-10 rounded-xl bg-gradient-to-br from-indigo-500 to-cyan-400 flex items-center justify-center text-white font-bold text-lg shadow-md">
-            L
+          <div className="h-10 w-10">
+            <img src="../public/opensource-icon.svg" alt="" />
           </div>
           <span className="text-xl font-semibold text-gray-900 tracking-tight">
             SIAM xICP

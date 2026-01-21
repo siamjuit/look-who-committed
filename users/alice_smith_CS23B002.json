@@ -2,5 +2,8 @@
   "name": "Alice Smith",
   "rollno": "CS23B002",
   "pokemon": "charizard",
-  "github": "https://github.com/alicesmith"
+  "github": "https://github.com/alicesmith",
+  "linkedin": "https://www.linkedin.com/in/alicesmith",
+  "twitter": "https://twitter.com/alicesmith",
+  "bio": "Alice Smith is a computer science student with a passion for web development and open-source contributions. She enjoys building interactive web applications and exploring new technologies."
 }

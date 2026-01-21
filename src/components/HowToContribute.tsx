@@ -57,10 +57,14 @@ export function HowToContribute() {
         <pre className="bg-slate-900 text-slate-100 p-4 rounded overflow-x-auto text-sm">
 {`{
   "name": "Your Name",
-  "rollno": "CS23B001",
-  "pokemon": "pikachu",
-  "github": "https://github.com/yourusername"
-}`}
+  "rollno": "CS_[roll number]",
+  "pokemon": "[your_pokemon_name] //Eg: pikachu, charizard etc.",
+  "github": "https://github.com/your_github_username]",
+  "linkedin": "https://www.linkedin.com/in/your_linkedin_username",
+  "twitter": "https://twitter.com/your_twitter_username",
+  "bio": "Your short bio goes here."
+}
+`}
         </pre>
         <p className="text-sm text-gray-600 mt-4">
           Save this file as <code className="bg-slate-100 px-2 py-1 rounded">your_name_rollno.json</code> in the <code className="bg-slate-100 px-2 py-1 rounded">users/</code> directory

@@ -3,6 +3,9 @@ export interface Contributor {
   rollno: string;
   pokemon: string;
   github: string;
+  bio?: string;
+  linkedin?: string;
+  twitter?: string;
 }
 
 export interface PokemonData {

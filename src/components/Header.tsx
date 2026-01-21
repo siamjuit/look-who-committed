@@ -10,7 +10,7 @@ export function Header() {
             <img src="../public/opensource-icon.svg" alt="" />
           </div>
           <span className="text-xl font-semibold text-gray-900 tracking-tight">
-            SIAM xICP
+            SIAM x ICP
           </span>
         </div>
 
